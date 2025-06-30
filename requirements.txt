@@ -6,3 +6,4 @@ textblob
 transformers
 torch
 nltk
+deep-translator
