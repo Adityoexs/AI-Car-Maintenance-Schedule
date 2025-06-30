@@ -1,6 +1,6 @@
 # 🚗 AI Car Maintenance Schedule – Streamlit App
 
-![Aplikasi Preview](preview.png)
+![Screenshot 2025-06-30 132525](https://github.com/user-attachments/assets/552fea23-c627-4267-b35b-a2029d3aebdd)
 
 Aplikasi **AI Car Maintenance Schedule** ini adalah platform berbasis Streamlit untuk pencatatan, analisis, dan prediksi servis kendaraan berbasis data odometer & histori servis.  
 Aplikasi ini juga terintegrasi dengan AI/NLP untuk analisis sentimen & klasifikasi keluhan secara otomatis.
@@ -21,7 +21,10 @@ Aplikasi ini juga terintegrasi dengan AI/NLP untuk analisis sentimen & klasifika
 
 ## 🖼️ Preview UI
 
-![Preview Streamlit App](preview.png)
+![Screenshot 2025-06-30 132525](https://github.com/user-attachments/assets/596d9d6e-876e-4cd1-a67e-918effd1425f)
+![Screenshot 2025-06-30 133414](https://github.com/user-attachments/assets/0cd131d3-493e-4a27-aa12-c52a7b22a3c8)
+![Screenshot 2025-06-30 133432](https://github.com/user-attachments/assets/f0dbaa4c-e83c-4ea0-b244-4a5983ec6bc0)
+![Screenshot 2025-06-30 133439](https://github.com/user-attachments/assets/6fee4eca-a882-4d9a-90e2-506dcf5b3e5f)
 
 ---
 
@@ -93,8 +96,6 @@ Aplikasi ini juga terintegrasi dengan AI/NLP untuk analisis sentimen & klasifika
 ## 📝 Catatan
 
 - Data kendaraan dan histori servis **hanya tersimpan selama sesi berjalan** (belum ada database).
-- Aplikasi bisa dengan mudah di-deploy ke **Streamlit Cloud** atau VPS/hosting sendiri.
-- **Screenshot** bisa diganti dengan hasil aplikasimu sendiri (`preview.png`).
 
 ---
 
