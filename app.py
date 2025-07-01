@@ -91,7 +91,7 @@ sentiment_pipe, zero_shot_pipe = load_huggingface_pipelines()
 
 def analyze_feedback(feedback):
     tb = TextBlob(feedback)
-    st.write("**Preview Untuk Dikirim ke Database**")
+    st.write("**{{Preview Untuk Dikirim ke Database}}**")
     st.write("**Analisis Sentimen (TextBlob):**", tb.sentiment)
     st.write("**Analisis Sentimen (HuggingFace BART):**", sentiment_pipe(feedback))
 
